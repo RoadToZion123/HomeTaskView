@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HomeTaskView</string>
+    <string name="nav_hasky">Husky</string>
+    <string name="nav_labrador">Labrador</string>
+    <string name="nav_smiley">Custom View</string>
+    <string name="drawer_close">Close</string>
+    <string name="drawer_open">Open</string>
+
+    <string-array name="screen_array">
+        <item>CustomView</item>
+        <item>Хаски</item>
+        <item>Лабрадор</item>
+    </string-array>
+
+    <string-array name="screen_array_eng">
+        <item>husky</item>
+        <item>labrador</item>
+    </string-array>
+
+
+
+</resources>
